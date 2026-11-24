@@ -1,0 +1,9 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Script ideas",
+      "url": "https://rl-ideation-app.vercel.app"
+    }
+  ]
+}

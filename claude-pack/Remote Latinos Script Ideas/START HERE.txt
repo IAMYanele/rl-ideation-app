@@ -1,0 +1,15 @@
+REMOTE LATINOS SCRIPT IDEAS: how to open it in Claude Code
+
+1. Unzip this file. You get a folder called "Remote Latinos Script Ideas".
+2. Open the Claude desktop app and go to the Code tab.
+3. Drag the "Remote Latinos Script Ideas" folder into Claude Code
+   (or start a new session and choose this folder).
+4. Type "open" and press Enter.
+
+The script ideas app opens in the panel on the right. Then:
+- Click who the scripts are for (Omer, Esteban, or Hire Remote Latinos).
+- Paste reel links, or type competitor accounts.
+- Press "Find videos", then "Write scripts".
+- Press "Copy all for Google Docs" and paste into your doc.
+
+You can also open the app straight in your browser: https://rl-ideation-app.vercel.app
