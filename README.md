@@ -11,7 +11,7 @@ Turns Instagram reels into ready-to-film scripts for Omer, Esteban or Hire Remot
 
 ## How to use it (Gabby and Laura)
 
-1. Open the link and type the team passcode (once per computer).
+1. Open the link. There is no passcode.
 2. **Who are the scripts for?** Click Omer, Esteban or Hire Remote Latinos.
 3. **Where should the ideas come from?** Pick one:
    - **Reel links:** paste Instagram reel links, one per line.
@@ -41,9 +41,9 @@ In Vercel, open project `rl-ideation-app`, go to Settings, then Environment Vari
 | `RAPIDAPI_KEY_FALLBACK` | the `rapidapi_key_fallback` from the same file |
 | `OPENAI_API_KEY` | an OpenAI key with credit (Whisper transcription, under 1 cent per reel) |
 | `ANTHROPIC_API_KEY` | a Claude API key with credit (about 15 to 40 cents per script on Opus 5.5 with caching) |
-| `TEAM_PASSCODE` | any passcode you choose; give it to Gabby and Laura |
 
 Optional:
+- `TEAM_PASSCODE`: leave it unset for no passcode (current setting). Set it to bring back a passcode screen, so strangers who find the link can't spend your API credit.
 - `ANTHROPIC_MODEL`: defaults to `claude-opus-5-5`; `claude-sonnet-5-5` costs about half.
 - `ANTHROPIC_EFFORT`: defaults to `high`.
 
